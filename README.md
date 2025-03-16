@@ -3,6 +3,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/viodx/MassMsgSender?logo=github&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/viodx/MassMsgSender?color=yellow&style=for-the-badge)
 ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
+![GitHub release](https://img.shields.io/github/v/release/viodx/MassMsgSender?color=orange&style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/viodx/MassMsgSender?logo=javascript&style=for-the-badge)
 
 🚀 **MassMsgSender** — A simple Discord message sender using tokens.
